@@ -22,8 +22,8 @@
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "GitHub",
+    "url": "https://github.com/unbrikd"
   },
   "tabs": [
     {
